@@ -1,0 +1,7 @@
+C:\Users\Jaspon\source\repos\Exercises\Stars2\bin\Debug\Stars2.exe.config
+C:\Users\Jaspon\source\repos\Exercises\Stars2\bin\Debug\Stars2.exe
+C:\Users\Jaspon\source\repos\Exercises\Stars2\bin\Debug\Stars2.pdb
+C:\Users\Jaspon\source\repos\Exercises\Stars2\obj\Debug\Stars2.csprojAssemblyReference.cache
+C:\Users\Jaspon\source\repos\Exercises\Stars2\obj\Debug\Stars2.csproj.CoreCompileInputs.cache
+C:\Users\Jaspon\source\repos\Exercises\Stars2\obj\Debug\Stars2.exe
+C:\Users\Jaspon\source\repos\Exercises\Stars2\obj\Debug\Stars2.pdb
